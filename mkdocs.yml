@@ -1,6 +1,6 @@
 site_name: Basic MkDocs Example Project
 theme:
-  name: scoot
+  name: readthedocs
   highlightjs: true
 plugins:
   - search
