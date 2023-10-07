@@ -2,6 +2,8 @@ site_name: Scoot
 theme:
   name: mkdocs
   highlightjs: true
+  extra_css:
+  - style.css
 plugins:
   - search
   - mkdocstrings:
