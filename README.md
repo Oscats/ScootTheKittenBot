@@ -26,11 +26,14 @@ Number | Item             | Price | Desciption
 1 |Neo (no pinion) |52.00|	
 1 |Neo 550 (no pinion) |29.50|	
 2 |Spark Max| 92.00|	
-  |Total   | 570.5
+  |Total   | 570.50
+
+  
 ### Total General Cost
 
 
 Number| Item| approximate total price
+-------|------------------|-------
 1| 1Full FRC Control System: Radio, PDP/PDH, POE for Radio, Rio 1 or 2, RSL, |
  |18 Gauge cable for the RSL| 
  |12 Guage cable for all motor and power connections|
