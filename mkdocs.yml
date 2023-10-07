@@ -11,7 +11,7 @@ plugins:
           options:
             docstring_style: sphinx
 markdown_extensions:
-  - Tables
+  - tables
   - markdown_include.include:
       base_path:
     
