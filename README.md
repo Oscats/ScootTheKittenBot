@@ -18,19 +18,31 @@ Since swerve is expensive. This solution allows a team to dip their toes in the 
 
 We do not have a full BOM yet, but the general estimate is below.
 
-Number | description| price | notes
-1| 
+### The price of each swerve module, motors and controllers...
+
 Number | Item             | Price | Desciption 
 -------|------------------|-------|------------
 1      |Rev Swerve Module |305.00 |this comes with the Rev Through Bore Encoder We purchased the plastic ones for testing, and the aluminum for competition. There is a known issue with the v1 plastic wheels. 
 1 |Neo (no pinion) |52.00|	
 1 |Neo 550 (no pinion) |29.50|	
-2 |Spark Max| 92.00|	| 1000| 
+2 |Spark Max| 92.00|	
+  |Total   | 570.5
+### Total General Cost
 
 
-Cables
-Full FRC Control System (we swapped the PDP/PDH for this one on Amazon. It is smaller and cheaper, but ring/spade terminals are annoying)
-3d Fillament ~801.81 g
-Fasteners (we used velcro)
+Number| Item| approximate total price
+1| 1Full FRC Control System: Radio, PDP/PDH, POE for Radio, Rio 1 or 2, RSL, |
+ |18 Gauge cable for the RSL| 
+ |12 Guage cable for all motor and power connections|
+ |22 Guage cable for the rio and CAN |
+ |cable connectors We used Anderson for the battery and Wago for all other power connectors molex/ dupont for CAN |
+2 |swerve modules | 1141
+1 |Small PDP |
+  |Ring or Spade Connectors for our PDP|
+1 |12Ohm terminating resistor
+~801.81 g |3d Fillament|  
+  |Fasteners for control system (we used velcro)|
+  |#10 bolts for the swerve modules and securing the base|
+1 |Limelight or other camera, Optional|
 
 [View our Cadd on onshape](https://cad.onshape.com/documents/dc911cfa8b3dccdac654b76b/w/eddf5a90f3b74427297dde25/e/3c74e6053ab6216a8b7a64ff)
