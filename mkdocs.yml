@@ -1,6 +1,6 @@
 site_name: Scoot
 theme:
-  name: mkDocs
+  name: mkdocs
   highlightjs: true
 plugins:
   - search
