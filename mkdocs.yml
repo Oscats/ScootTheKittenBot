@@ -1,6 +1,6 @@
 site_name: Scoot
 theme:
-  name: readthedocs
+  name: mkdocs
   highlightjs: true
 plugins:
   - search
