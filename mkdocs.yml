@@ -1,6 +1,6 @@
 site_name: Scoot
 theme:
-  name: readthedocs
+  name: Slate
   highlightjs: true
 plugins:
   - search
