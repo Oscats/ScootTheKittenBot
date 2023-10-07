@@ -49,3 +49,5 @@ Number| Item| approximate total price
 1 |Limelight or other camera, Optional|
 
 [View our Cadd on onshape](https://cad.onshape.com/documents/dc911cfa8b3dccdac654b76b/w/eddf5a90f3b74427297dde25/e/3c74e6053ab6216a8b7a64ff)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Xi9yb1IMyA?si=fK5E0dbZEoLfbt4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
