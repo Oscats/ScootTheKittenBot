@@ -1,4 +1,4 @@
-site_name: Scoot: The Kitten Bot
+site_name: Scoot
 theme:
   name: readthedocs
   highlightjs: true
