@@ -10,6 +10,7 @@ the blocks defined in base.html and its included child templates.
 #}
 
 {%- block site_name %}
-  <img src="css/Logo2.png" alt="Joe Logo">
+  <img src="css/Logo2.png" alt="Joe Logo"
+   style="width:3.5rem + 20px;height:3.5rem + 20px;">
   <a class="navbar-brand" href="{{ nav.homepage.url|url }}">{{ config.site_name }}</a>
 {%- endblock %}
