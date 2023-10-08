@@ -10,7 +10,7 @@ nav-item {
     background-image: linear-gradient(#eb547d, #2FA4E7 60%, #1d9ce5);
     background-repeat: no-repeat;
 */
-bg-primary {
+.bg-primary {
     background-image: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(60%, red), to(black));
     background-image: linear-gradient(white, red 60%, black);
     background-repeat: no-repeat;
