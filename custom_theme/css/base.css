@@ -5,9 +5,6 @@ html {
     scroll-padding-top: calc(3.5rem + 20px);
     /* csslint ignore:end */
 }
-a href {	
-    color: red;	
-}
 	
 /* original... background-image: -webkit-gradient(linear, left top, left bottom, from(#54b4eb), color-stop(60%, #2FA4E7), to(#1d9ce5));	
     background-image: linear-gradient(#eb547d, #2FA4E7 60%, #1d9ce5);	
@@ -21,7 +18,7 @@ a href {
     background-repeat: no-repeat;	
 }
 a {
-  color: hotpink;
+  color: red;
 }
 /*
 nav-link active {	
