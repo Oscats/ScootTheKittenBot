@@ -3,7 +3,7 @@
     <menu-item id="item_2" label="@Strings.menu_label_2" />
 </menu>
 
-header {
-  color: red;
+body {
+    background-color: #9b1e1e;
 }
 
