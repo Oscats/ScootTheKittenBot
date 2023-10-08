@@ -2,11 +2,8 @@
     <menu-item id="item_1" label="@Strings.menu_label_1" />
     <menu-item id="item_2" label="@Strings.menu_label_2" />
 </menu>
-.a {
+a href {
     color: red;
-    text-decoration: none;
-    background-color: transparent;
-    -webkit-text-decoration-skip: objects;
 }
 nav-item {
     color-red
