@@ -23,6 +23,9 @@ nav-item {
     background-image: linear-gradient(white, red 60%, black);	
     background-repeat: no-repeat;	
 }
+a {
+  color: hotpink;
+}
 /*
 nav-link active {	
     color:red;	
