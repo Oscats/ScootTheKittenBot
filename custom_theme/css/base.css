@@ -3,7 +3,7 @@
     <menu-item id="item_2" label="@Strings.menu_label_2" />
 </menu>
 a {
-    color: #e72f5f;
+    color: red;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
