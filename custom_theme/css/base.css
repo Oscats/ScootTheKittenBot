@@ -2,7 +2,7 @@
     <menu-item id="item_1" label="@Strings.menu_label_1" />
     <menu-item id="item_2" label="@Strings.menu_label_2" />
 </menu>
-a {
+.a {
     color: red;
     text-decoration: none;
     background-color: transparent;
