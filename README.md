@@ -36,7 +36,7 @@ Number | Item             | Price | Desciption
 ### Total General Cost
 
 
-Number| Item| approximate total price
+Number| Item| approximate cost of the number listed
 -------|------------------|-------
 1| 1Full FRC Control System: Radio, PDP/PDH, POE for Radio, Rio 1 or 2, RSL, |
  |18 Gauge cable for the RSL| 
@@ -44,12 +44,13 @@ Number| Item| approximate total price
  |22 Guage cable for the rio and CAN |
  |cable connectors We used Anderson for the battery and Wago for all other power connectors molex/ dupont for CAN |
 2 |swerve modules | 1141
-1 |Small PDP |
+1 |Small PDP, optional | We used [this one from Amazon](https://www.amazon.com/gp/product/B0B5TTTPM2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
   |Ring or Spade Connectors for our PDP|
 1 |12Ohm terminating resistor
 ~801.81 g |3d Fillament|  
   |Fasteners for control system (we used velcro)|
   |#10 bolts for the swerve modules and securing the base|
 1 |Limelight or other camera, Optional|
+1 |battery| We use one of the [Studica batteries](https://www.studica.com/studica-robotics/12v-3000-mah-nimh-battery-pack-pp45)
 
 [View our Cadd on onshape](https://cad.onshape.com/documents/dc911cfa8b3dccdac654b76b/w/eddf5a90f3b74427297dde25/e/3c74e6053ab6216a8b7a64ff)
