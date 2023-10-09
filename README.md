@@ -39,14 +39,17 @@ Number | Item             | Price | Desciption
 Number| Item| approximate cost of the number listed
 -------|------------------|-------
 1| 1Full FRC Control System: Radio, PDP/PDH, POE for Radio, Rio 1 or 2, RSL, |
+1| Optional: We substituted the [Rev POE cable](https://www.revrobotics.com/rev-11-1210/) for the Rev Power Module. This is not tournament legal, but is working for us.
+1| Optional: Small PDP. We used [this one from Amazon](https://www.amazon.com/gp/product/B0B5TTTPM2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)| 19.99
+1| Optional: 12Ohm terminating resistor. If you substitute the PDP, you need a terminating resistor for the Can Bus.| .15 at Digikey, 5:00/3 at Amazon
+
  |18 Gauge cable for the RSL| 
  |12 Guage cable for all motor and power connections|
  |22 Guage cable for the rio and CAN |
  |cable connectors We used Anderson for the battery and Wago for all other power connectors molex/ dupont for CAN |
 2 |swerve modules | 1141
-1 |Small PDP, optional | We used [this one from Amazon](https://www.amazon.com/gp/product/B0B5TTTPM2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
   |Ring or Spade Connectors for our PDP|
-1 |12Ohm terminating resistor
+
 ~801.81 g |3d Fillament|  
   |Fasteners for control system (we used velcro)|
   |#10 bolts for the swerve modules and securing the base|
