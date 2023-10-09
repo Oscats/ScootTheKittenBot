@@ -4,6 +4,8 @@
 
 ===============================================
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bEF0AGFgYwE?si=UNsT_K8FBAAk4sSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Why did we make Scoot?
 
 Inspired by many mini bots that the team and it's mentors have interacted with over the years, Scooter was developed for team 6762 as a minimal entry point to explore the feasibility of a swerve drive for a robotics in-season bot.
