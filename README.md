@@ -57,5 +57,20 @@ Number| Item| approximate cost of the number listed
   | Total| ~2303.05
 
 That sounds like a lot, however, other than the swerve drives themselves, we were able to source all of the materials from team stock. So, for us, it cost us clocer to $650.00. Many of the materials are also reuseable. Another aspect of the design is that you could use scoot as the control board for a full-size bot with four swerve modules.
+## CADD
+![ScootCaddImage](https://github.com/Oscats/ScootTheKittenBot/assets/25676667/99e06826-f81f-4707-afcc-7719149f3de2) (https://cad.onshape.com/documents/dc911cfa8b3dccdac654b76b/w/eddf5a90f3b74427297dde25/e/3c74e6053ab6216a8b7a64ff)
+
 
 [View our Cadd on onshape](https://cad.onshape.com/documents/dc911cfa8b3dccdac654b76b/w/eddf5a90f3b74427297dde25/e/3c74e6053ab6216a8b7a64ff)
+
+### Changes that have not made it into our CADD designs
+
+- We are using the Amazon PDP and terminating resistor because it is smaller
+- We put the PDP under the chassis to allow more flexibility on top
+
+# Some images of our current bot
+
+![PXL_20231006_200813674](https://github.com/Oscats/ScootTheKittenBot/assets/25676667/65e40264-05c8-49a1-a590-c94464d73de7)
+![PXL_20231006_200752239](https://github.com/Oscats/ScootTheKittenBot/assets/25676667/2938ea18-248b-4b28-8c16-43b676c40482)
+
+
