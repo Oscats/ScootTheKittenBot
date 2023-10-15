@@ -1,2 +1,2 @@
 {!code.md}
-{!knownIssues.md!}
+{!knownIssues.md}
