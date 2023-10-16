@@ -152,6 +152,11 @@ td, th {
  * https://github.com/mkdocs/mkdocs/issues/2012
  */
  .wy-nav-side {
+     background: #b94d29;
+    padding-bottom: 40px;
+}
+ .wy-nav-top {
+     background: #b94d29;
     padding-bottom: 40px;
 }
 
